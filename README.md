@@ -58,12 +58,12 @@ We can see the shape of the spectrum changing in both the surface plot and the p
 slices. This can be explained by component spectra that change at different rates. For example,
 the GA would decompose the complete spectrum into two spectra as show below:  
 
-<img src="spectra.png" width="800">
+<img src="spectra.png" width="700">
 
 These spectra are normalized so that we can compare their shapes. We can graph their actual
 intensities over time by plotting their *kinetics*:  
 
-<img src="kinetics.png" width="800">
+<img src="kinetics.png" width="700">
 
 We see that as the intensity of one feature decays, the intensity of the other feature grows.
 If the rates of growth and decay are similar, that might mean that the presence of one feature
