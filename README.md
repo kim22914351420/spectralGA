@@ -48,22 +48,22 @@ values contain z values.
 
 The following is an example of a surface plot of a spectrum:  
 
-<img src="surfaceplot.png" width="800">
+<img src="Figures/surfaceplot.png" width="800">
 
 We can take slices of this plot at certain times:  
 
-<img src="timeslices.png" width="800">
+<img src="Figures/timeslices.png" width="800">
 
 We can see the shape of the spectrum changing in both the surface plot and the plot of time
 slices. This can be explained by component spectra that change at different rates. For example,
 the GA would decompose the complete spectrum into two spectra as show below:  
 
-<img src="spectra.png" width="700">
+<img src="Figures/spectra.png" width="700">
 
 These spectra are normalized so that we can compare their shapes. We can graph their actual
 intensities over time by plotting their *kinetics*:  
 
-<img src="kinetics.png" width="700">
+<img src="Figures/kinetics.png" width="700">
 
 We see that as the intensity of one feature decays, the intensity of the other feature grows.
 If the rates of growth and decay are similar, that might mean that the presence of one feature
