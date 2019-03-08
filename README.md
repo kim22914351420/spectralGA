@@ -182,6 +182,6 @@ Plots surface maps of the total and component spectra.
 ## Credits and Acknowledgements 
 
 This module is based on an excellent genetic algorithm program written in MATLAB by Simon
-Gelinas Simon G&eacute;linas during his PhD in the Optoelectronics Group at the University of Cambridge. The
+G&eacute;linas during his PhD in the Optoelectronics Group at the University of Cambridge. The
 program is discussed in his thesis, and it is a wonderful resource to the group. Many thanks
 to Florian Schroeder and Callum Ward for their valuable contributions to said MATLAB program.
